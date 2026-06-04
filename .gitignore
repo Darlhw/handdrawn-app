@@ -1,0 +1,9 @@
+build/
+dist/
+.buildozer/
+bin/
+*.pyc
+__pycache__/
+test_convert.py
+test_full.py
+*.spec.bak
