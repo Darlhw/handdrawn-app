@@ -29,5 +29,3 @@ fullscreen = 0
 android.allow_backup = True
 
 log_level = 2
-
-p4a.branch = stable
